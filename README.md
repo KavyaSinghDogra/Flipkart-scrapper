@@ -1,11 +1,16 @@
 # Flipkart Scrapper
 
 A Python-based web scraper for extracting product details (name, price, rating, etc.) from [Flipkart](https://www.flipkart.com).  
-This project also includes a simple web interface (Flask) to search products and display results.
+Includes a **Flask-powered web interface** that allows you to search products and view the scraped results.
 
-## Features
--> Scrapes product details such as: Name, Price, Rating and more.
+---
 
--> Flask-based web interface for easy interaction.
-
--> Supports exporting or extending scraped data.
+## ✨ Features
+- Extracts product details:
+  - Name
+  - Price
+  - Rating
+  - Product link
+- Flask-based web UI for easy interaction
+- Extendable for CSV/Excel export
+- Simple and lightweight codebase
