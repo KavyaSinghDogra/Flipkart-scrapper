@@ -4,13 +4,7 @@ A Python-based web scraper for extracting product details (name, price, rating, 
 This project also includes a simple web interface (Flask) to search products and display results.
 
 ## Features
--> Scrapes product details such as:
-
-  -> Name
-
-  -> Price
-
-  -> Rating
+-> Scrapes product details such as: Name, Price, Rating and more.
 
 -> Flask-based web interface for easy interaction.
 
