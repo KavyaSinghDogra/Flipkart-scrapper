@@ -5,8 +5,13 @@ This project also includes a simple web interface (Flask) to search products and
 
 ## Features
 -> Scrapes product details such as:
+
   -> Name
+
   -> Price
+
   -> Rating
+
 -> Flask-based web interface for easy interaction.
+
 -> Supports exporting or extending scraped data.
